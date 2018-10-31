@@ -6,16 +6,15 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#1c1b21",
+    "navigationBarBackgroundColor": "#6d240e",
     "navigationBarTitleText": "小翻译官",
-    "navigationBarTextStyle": "#fff",
-    "backgroundColor": "red"
+    "navigationBarTextStyle": "#fff"
   },
   "tabBar": {
     "borderStyle": "white",
     "position": "top",
-    "color": "#595959",
-    "selectedColor": "#1c1b21",
+    "color": "black",
+    "selectedColor": "#6d240e",
     "list": [
       {
         "pagePath": "pages/index/index",
